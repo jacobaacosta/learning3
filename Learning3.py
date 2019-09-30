@@ -1,0 +1,5 @@
+print("hellow world.")
+print("This is my world!")
+print("i will now count my chickens")
+print("Hens", 25 + 30 / 6)
+print("roosters:", 100 - 25 * 3 % 4)
