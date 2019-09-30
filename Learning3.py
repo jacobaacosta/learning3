@@ -1,5 +1,12 @@
-print("hellow world.")
-print("This is my world!")
-print("i will now count my chickens")
+print("hello world.")
+print("Howdy, Yall!")
+print("i like typing this.")
+print("Printing ....yay!!!")
+
+#Practice with Maths and things
+print("I will now count my chickens")
 print("Hens", 25 + 30 / 6)
-print("roosters:", 100 - 25 * 3 % 4)
+print("Roosters:", 100 - 25 * 3 % 4)
+print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
+print("is it true that 3 + 2 < 5 - 7?")
+print(3 + 2 < 5 - 7)
