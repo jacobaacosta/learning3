@@ -1,3 +1,9 @@
+#what is an octohorpe?
+# <-  this is an octohorpe
+# What is the octohorpe used for in python?
+# Notes, also known in the programming community as Comments
+
+#Practice having your own words displayed!
 print("hello world.")
 print("Howdy, Yall!")
 print("i like typing this.")
